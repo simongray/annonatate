@@ -1,0 +1,72 @@
+---
+added: 2024-10-17 09&#58;09&#58;11.771329
+thumbnail: https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/Skrmbillede20240920kl101604/full/112,/0/default.jpg
+title: gguhuih
+user: Simon Gray
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "gguhuih"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/canvas/gguhuih-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Skærmbillede 2024-09-20 kl. 10.16.04"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/Skrmbillede20240920kl101604/full/112,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 2240,
+      "width": 3584,
+      "items": [
+        {
+          "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/Skrmbillede20240920kl101604/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2240,
+                "width": 3584,
+                "service": [
+                  {
+                    "id": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/Skrmbillede20240920kl101604",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://simongray.github.io/annonatate/img/derivatives/iiif/gguhuih/canvas/gguhuih-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
